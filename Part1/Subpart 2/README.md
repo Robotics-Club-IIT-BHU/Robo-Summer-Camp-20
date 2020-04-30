@@ -2,7 +2,6 @@
 
 Given that pybullet is running, its time to define or rather redefine what a robot is !!!
 <p align="center">
-   <img width="250" height="458" src="https://github.com/lok-i/JerBot/blob/master/dynamic.gif">
-   
+   <img width="360" height="480" src="https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/redefine.gif">
 </p>
 
