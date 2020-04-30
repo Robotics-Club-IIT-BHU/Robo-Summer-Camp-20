@@ -81,7 +81,8 @@ This will expose the PyBullet module as well as pybullet_envs Gym environments.
 6. Once your Powershell pops up, type “pip3 install PyBullet” and press enter.
 7. You can install any python package using pip in the Powershell.
 8. Try running this example code:
-`import pybullet as p
+```python
+import pybullet as p
 import time
 import pybullet_data
 physicsClient = p.connect(p.GUI)#or p.DIRECT for non-graphical version
@@ -97,5 +98,5 @@ for i in range (10000):
 cubePos, cubeOrn = p.getBasePositionAndOrientation(boxId)
 print(cubePos,cubeOrn)
 p.disconnect()
-`
+```
 
