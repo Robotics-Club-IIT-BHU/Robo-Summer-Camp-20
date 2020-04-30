@@ -2,10 +2,10 @@
 
 Getting to know about robot models, its time to do some serious simulation !!
 
-## Note:-
+## Note:
 As a prescribed text we share the [PyBullet_Quickstart_Guide](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%203/PyBullet_Quickstart_Guide.pdf)for quick reference.It contains almost all the functions and the necassary details for using Pybullet,in short its like your bible for this course.Thus, through out this camp it is advised you constanly refer this for better understanding.
 
-## Starter code:-
+## Starter code:
 Moving on,here we will see a basic code in PyBullet and understand the functions used in it.
 ```python
 import pybullet as p
