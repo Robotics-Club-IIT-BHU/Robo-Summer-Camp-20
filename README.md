@@ -33,7 +33,7 @@ The file structure of a given part in this repo is as follows:
 4. or, feel free to contact the makers of this repositry
    
 <p align = "center">
-<table>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td align="center">
      <a href="https://github.com/lok-i">
