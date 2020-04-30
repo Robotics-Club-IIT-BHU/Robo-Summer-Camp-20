@@ -1,4 +1,5 @@
 # Robotics club, IIT(BHU)
+[!logo](https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/14045716_1588889014739471_6053448306584221828_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=di3U3GUo8egAX8l7PYd&_nc_ht=scontent.fmaa1-2.fna&oh=af10b64b1dfe3df798fe4e307402a3ae&oe=5ECF6C83)
 ## Summer Camp, 2020
 
    The current edition of the summer camp conducted by the Robotics Club, IIT (BHU)-2020 ,aims at providing a structred approach towards robot development and control based on the simulation tool PyBullet.This repositry will be the primary source of code and content related to the camp.The repositry will be updated part wise with subfolders which has topic wise theory and problem statements/tasks.
@@ -10,8 +11,10 @@
          * Content and links
          * Task to solve
          * Starter code
-      * SUN PART 2
+      * SUB PART 2
+      
       so on ..
+
 Thus, you are expected to go through all the sub parts,read the content and solve all the tasks inorder to complete the respective part.The course is divided into 4 such parts and a team project.
    
 This camp is open to all IIT (BHU) students and the entire mangement and non-technical queries are addresed using a local social group(Whatsapp).
@@ -19,9 +22,10 @@ This camp is open to all IIT (BHU) students and the entire mangement and non-tec
 A more detailed overview of the cummer camp structure is provided in this - [pdf](https://github.com/NiranthS/Pybullet-Camp-Part1/blob/master/Camp_Overview.pdf).
 
 Any querries related to the technical code/content,
-1. Raise a issue in this repositry
-2. or, post your problems in the whatsapp group mentioned
-3. or, feel free to contact the contributer of this repositry
+1. Google till you get it ...
+2. or, Raise a issue in this repositry
+3. or, post your problems in the whatsapp group mentioned
+4. or, feel free to contact the contributer of this repositry
    * [Lokesh Krishna](https://github.com/lok-i)
    * [Niranth Sai](https://github.com/NiranthS)
 
