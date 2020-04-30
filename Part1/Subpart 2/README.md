@@ -21,9 +21,13 @@ Any robot is constructed by a combination of rigid bodies and joints. These rigi
 
 **Joints:**
 	Any form of motion causing inter linkages are called as Joints. Joints are broadly classified into 3 types.
-1. Revolute
-2. Prismatic
-3. Universal
+* Fixed: rigid connection, no motion
+* Revolute: support rotation in 1 dimension (along a single axis)
+* Continuous: unlimited variant of revolute joints
+* Prismatic: support translation in 1 dimension (along a single axis)
+* Planar: translation in two dimensions
+* Floating: unlimited motion (translation and rotation) in all 6 dimentions
+
 
 **Note:** In simulations we don't consider the electronic systems required for the control of the robots rather we program a joint level controller (will be explained in future parts).
 
