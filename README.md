@@ -32,7 +32,7 @@ The file structure of a given part in this repo is as follows:
 3. or, post your problems in the whatsapp group mentioned
 4. or, feel free to contact the makers of this repositry
    
-### Authors & Contributors of this repositry:-
+### Authors & Contributors of this repository:-
 <p align = "center">
 <table>
  <td align="center">
