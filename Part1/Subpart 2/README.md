@@ -20,7 +20,7 @@ Any robot is constructed by a combination of rigid bodies and joints. These rigi
           A link is named as a parent link with respect to a joint. For instance, wrt the joint 2, Link 1 is the parent and Link 3 is a child.
 
 **Joints:**
-	Any form of motion causing inter linkages are called as Joints. Joints are broadly classified into 3 types.
+	Any form of motion causing inter linkages are called as Joints. Joints are broadly classified into:
 * Fixed: rigid connection, no motion
 * Revolute: support rotation in 1 dimension (along a single axis)
 * Continuous: unlimited variant of revolute joints
