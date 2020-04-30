@@ -1,5 +1,9 @@
-# Robotics club, IIT(BHU)
-[!logo](https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/14045716_1588889014739471_6053448306584221828_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=di3U3GUo8egAX8l7PYd&_nc_ht=scontent.fmaa1-2.fna&oh=af10b64b1dfe3df798fe4e307402a3ae&oe=5ECF6C83)
+<p align="center">
+   <img  width="300" height="300" src="https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/14045716_1588889014739471_6053448306584221828_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=di3U3GUo8egAX8l7PYd&_nc_ht=scontent.fmaa1-2.fna&oh=af10b64b1dfe3df798fe4e307402a3ae&oe=5ECF6C83">
+</p>
+
+
+
 ## Summer Camp, 2020
 
    The current edition of the summer camp conducted by the Robotics Club, IIT (BHU)-2020 ,aims at providing a structred approach towards robot development and control based on the simulation tool PyBullet.This repositry will be the primary source of code and content related to the camp.The repositry will be updated part wise with subfolders which has topic wise theory and problem statements/tasks.
