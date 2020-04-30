@@ -37,7 +37,11 @@ Any robot is constructed by a combination of rigid bodies and joints.These rigid
 
 Since,in this camp we try exploring a beginner friendly approach towards robot simulation we don't prefer getting into ROS and also the camp aims to concentrate more on addressing the control related problems and not the fabrication of the robot using CAD softwares.Hence,the required URDF files will be provided along with the tasks and creation of these files is not required for now.
 
-**Note:** Though you can't create these files, you are always free to edit a given URDF file using a simple test editor (like notepad).A more in depth understanding is provided here(http://wiki.ros.org/urdf/Tutorials).
+**Note:** 
+	Though you can't create these files, you are always free to edit a given URDF file using a simple text editor (like notepad).A more in depth understanding is provided here
+
+1. [ROS URDF](http://wiki.ros.org/urdf/Tutorials).
+2. [A sample lecture](https://ocw.tudelft.nl/course-lectures/2-2-1-introduction-to-urdf/)
 
 ## Task for the part:
 To create a the urdf file for a simpile robot structure depicted below:
@@ -55,5 +59,5 @@ The white circles represent the _2 revolute joints_ and the black lines represen
 
    1. [Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
    2. [Building a Visual Robot URDF](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
-4. The aim of this task is to give you a grasp of what a URDF is and not to get into every nitty-gritty detailas and mastering URDF's.Hence,a intutive understanding and using URDF's in upcoming parts is the main idea.  
+4. The aim of this task is to give you a grasp of what a URDF is and **not** to get into every nitty-gritty details and mastering URDF's. Hence,a intutive understanding and the "how to use ?" of URDF's for the upcoming parts is the main idea.  
 
