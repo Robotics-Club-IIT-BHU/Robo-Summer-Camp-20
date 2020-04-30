@@ -29,11 +29,13 @@ Here are some simulations in PyBullet:
 
 
 # Installation of PyBullet
-For Linux users:
+
 The installation of PyBullet is as simple as:
-(sudo)`pip install PyBullet` (Python 2.x)
+(sudo)`pip install PyBullet` (Python 2.x), 
 `pip3 install PyBullet`
- This will expose the PyBullet module as well as pybullet_envs Gym environments.
+This will expose the PyBullet module as well as pybullet_envs Gym environments.
+
+
 
 
 
