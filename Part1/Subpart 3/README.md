@@ -1,4 +1,7 @@
 # Subpart 3
+
+Getting to know about robot models, its time to do some serious simulation !!
+
 In this subpart we will see a basic code in PyBullet and understand the functions used in it.
 ```python
 import pybullet as p
@@ -18,7 +21,7 @@ cubePos, cubeOrn = p.getBasePositionAndOrientation(boxId)
 print(cubePos,cubeOrn)
 p.disconnect()
 ```
-We will go through each line of the code and understand what it does
+We will go through each line of the code and understand what it does,
 1. First we import the required libraries i.e. pybullet, time and pybullet_data
 2. **connect**
 * After importing the PyBullet module, the first thing to do is 'connecting' to the physics simulation. PyBullet is designed around a client-server driven API, with a client sending commands and a physics server returning the status. PyBullet has some built-in physics servers: DIRECT and GUI. Both GUI and DIRECT connections will execute the physics simulation and rendering in the same process as PyBullet.
