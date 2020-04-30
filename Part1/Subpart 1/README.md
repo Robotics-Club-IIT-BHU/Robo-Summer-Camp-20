@@ -62,14 +62,19 @@ Here are some simulations in PyBullet:
 
 ### Installation of PyBullet
 
-#### Linux Users
 The installation of PyBullet is as simple as:
 (sudo)`pip install PyBullet` (Python 2.x), 
 `pip3 install PyBullet`
 This will expose the PyBullet module as well as pybullet_envs Gym environments.
 
-#### Windows User
+#### If the above process doesn't work for windows users then try: 
 
+1. Install Visual Studio 2019 Community version [here](https://visualstudio.microsoft.com/downloads/).
+2. In the setup, in workloads select “Python Development” and “Desktop development with C++”.
+3. After installation, launch Visual Studio and create a new python project.
+4. Goto Tools>Python>Python Environments.
+5. In the Overview bar on the right side, select “Open in Powershell”
 
-
+6. Once your Powershell pops up, type “pip3 install PyBullet” and press enter.
+7. You can install any python package using pip in the Powershell.
 
