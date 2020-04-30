@@ -99,4 +99,4 @@ cubePos, cubeOrn = p.getBasePositionAndOrientation(boxId)
 print(cubePos,cubeOrn)
 p.disconnect()
 ```
-**Contact us if you face any difficulties with installation.**
+**Contact us if you face any difficulties with the installation.**
