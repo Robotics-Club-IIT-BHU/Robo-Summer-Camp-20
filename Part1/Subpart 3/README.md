@@ -28,7 +28,7 @@ We will go through each line of the code and understand what it does
 3. **setAdditionalSearchPath** is used to add pybullet_data to the path which contains many examples, urdf files, etc.
 4. **setGravity**:By default, there is no gravitational force enabled. setGravity lets you set the default gravity force for all objects.
 | Parameter type | Name              | type  | Description                                                             |
-| -------------- |:-----------------:| -----:| ----------------------------------------------------------------------- |
+| -------------- |:-----------------:| -----:|:-----------------------------------------------------------------------:|
 | required       | gravityX          | float | gravity force along the X world axis                                    | 
 | required       | gravityY          | float | gravity force along the Y world axis                                    |
 | required       | gravityZ          | float | gravity force along the Z world axis                                    | 
