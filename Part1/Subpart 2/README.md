@@ -44,13 +44,13 @@ To create a the urdf file for a simpile robot structure depicted below:
 <p align="center">
    <img width="590" height="352" src="https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/2r_arm.png">
 </p>
-This is called a **_2R Planar robot arm_**, as it has **2 Revoute Joints** that inter connects a base and 2 links.
+This is called a **2R Planar robot arm**, as it has **2 Revoute Joints** that inter connects a base and 2 links.
 
 **Note:**
 1. The task requires you to only build a **Visual** robot - meaning its enough if the robot has visual and geometry tags  alone (No need for Mass,cCollision,Inertia and other physical properties though they will be covered in the upcoming parts.)
 2. Dont worry about about visualizing the URDF you have created,as it is covered in the very next sub-part.
 3. The links below will be very use full for realizing this task,(skip the ros parts, juzt follow about the tags in urdf)
-	1.[Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
-	2.[Building a Visual Robot URDF](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
+   1.[Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
+   2.[Building a Visual Robot URDF](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
 
 
