@@ -44,7 +44,9 @@ To create a the urdf file for a simpile robot structure depicted below:
 <p align="center">
    <img width="590" height="352" src="https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/2r_arm.png">
 </p>
-This is called a **2R Planar robot arm**, as it has **2 Revoute Joints** that inter connects a base and 2 links.
+
+This is called a _**2R_Planar_robot_arm**_ , as it has **2_Revoute_Joints** that inter connects a base and 2 links as shown.
+The white circles represent the _2 revolute joints_ and the black lines represent the links with length _l1_ and _l2_.Thus,you are expected to build a robot of this sort with simple shapes like box and cylinders. (explained in links below)
 
 **Note:**
 1. The task requires you to only build a **Visual** robot - meaning its enough if the robot has visual and geometry tags  alone (No need for Mass,cCollision,Inertia and other physical properties though they will be covered in the upcoming parts.)
