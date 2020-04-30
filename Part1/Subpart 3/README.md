@@ -76,22 +76,26 @@ optional  | physicsClientId | int | if you are connected to multiple servers, yo
 
 In this task you are expected to simulate the following conditions using the functions described above.
 
-Task - 1 - Undefiying gravity !!.
+Task - 1 - Undefiying gravity !!
+
 1. **Total_Time_Step:** Infinite
 2. **Gravity:**
 along a direction 1/√2 i + 1/√2 j + 0 k , that increases from a magnitude of 0 linearly to a magnitude of 9.8 m/s^2 and resets to 0 and continues the cycle.
 
 *Hint:Gravity should be function that updates itself every time step of simulation.*
+
 3. **Bodies in the simulation:**
 Import the given [sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/sample.urdf) file at the position [2,2,1] and dabba.urdf file at [0,0,1] position. 
 
 Task - 2 - Fibanocci Rainfall.
-    Try simulating a rainfall using sphere.urdf as the raindrops.The rainfall should be in such a way that every wave of rainfall should have a fibanocci number of raindrops.The sphere's should start falling from a specified height with a gravity -10 m/s^2.The spheres should equally space along the X axis during the start of the wave.
 
-eg:-
-The 7 th wave of the rainfall shoud have 13 shperes.
+   Try simulating a rainfall using sphere.urdf as the raindrops.The rainfall should be in such a way that every wave of rainfall should have a fibanocci number of raindrops.The sphere's should start falling from a specified height with a gravity -10 m/s^2.The spheres should equally space along the X axis during the start of the wave.
+
+eg:The 7 th wave of the rainfall shoud have 13 shperes falling freely.
+
 1. **Timesteps_per_wave:** 10,000
 2. **Height of release:** 5 units from the ground along +z axis
+3. **Last term of Fibanocci rainfall:** well,find it !
 
 
 
