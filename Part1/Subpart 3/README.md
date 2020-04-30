@@ -56,7 +56,7 @@ optional  | baseOrientation | vec4 | create the base of the object at the specif
 6. We store the initial position of our urdf file in the variable cubsStartPos.
 
 7. We store the initial Quaternion orientation of our urdf file in cubeStartOrientation
-**More details about Quaternions will be given in Part 2 of the camp**
+**(More details about Quaternions will be given in Part 2 of the camp)**
 
 8. We import our r2d2 robot urdf file in the desired position and orientation.
 
@@ -73,4 +73,11 @@ optional  | physicsClientId | int | if you are connected to multiple servers, yo
 11.**disconnect**: You can disconnect from a physics server. A 'DIRECT' or 'GUI' physics server will shutdown. A separate (out-of-process) physics server will keep on running. See also 'resetSimulation' to remove all items.
 
 ## Task for the part
-Import the given [sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/sample.urdf) file at the position [2,2,1] and second.urdf file at [0,10,5] position 
+
+In this task you are expected to simulate the following conditions using the functions described above.
+1. **Total_Time_Step:** Infinite
+2. **Gravity:**
+along a direction 1/√2 i + 1/√2 j + 0 k , that increases from a magnitude of 0 linearly to a magnitude of 9.8 m/s^2 and resets to 0 and continues the cycle.
+*Hint:Gravity should be function that updates itself every time step of simulation.*
+3. **Bodies in the simulation:**
+Import the given [sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/sample.urdf) file at the position [2,2,1] and dabba.urdf file at [0,0,1] position. 
