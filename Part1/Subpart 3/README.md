@@ -36,3 +36,13 @@ required  | gravityX | float | gravity force along the X world axis
 required  | gravityY | float | gravity force along the Y world axis
 required  | gravityZ | float | gravity force along the Z world axis
 optional  | physicsClientId | int | if you connect to multiple physics servers, you can pick which one.
+
+5. **loadURDF**: The loadURDF will send a command to the physics server to load a physics model from a Universal Robot Description File (URDF).
+
+Some important arguments of loadURDF are:
+
+parameter type  | Name | type | Description
+--- | --- | --- | ---
+required  | fileName | string | a relative or absolute path to the URDF file on the file system of the physics server.
+optional  | basePosition | vec3 | create the base of the object at the specified position in world space coordinates [X,Y,Z]. Note that this position is of the URDF link position. If the inertial frame is non-zero, this is different from the center of mass position. Use resetBasePositionAndOrientation to set the center of mass location/orientation.
+optional  | baseOrientation | vec4 | create the base of the object at the specified orientation as world space quaternion [X,Y,Z,W]. See note in basePosition.
