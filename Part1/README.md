@@ -1,4 +1,4 @@
-# Part1
+# Part 1
 The introductory part of the camp covers the following topics, evenly distributed into three subtasks folders above.
 ## The topics are:
 
