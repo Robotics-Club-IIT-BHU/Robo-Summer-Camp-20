@@ -2,7 +2,10 @@
 
 Getting to know about robot models, its time to do some serious simulation !!
 
-In this subpart we will see a basic code in PyBullet and understand the functions used in it.
+## Note:-
+As a prescribed text we share the [PyBullet_Quickstart_Guide for quick reference](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%203/PyBullet_Quickstart_Guide.pdf).It contains almost all the functions and the necassary details for using Pybullet.Thus, thorough out this camp it is advised you constanly refer this for better understanding.
+
+Moving on,here we will see a basic code in PyBullet and understand the functions used in it.
 ```python
 import pybullet as p
 import time
@@ -50,8 +53,6 @@ required  | fileName | string | a relative or absolute path to the URDF file on 
 optional  | basePosition | vec3 | create the base of the object at the specified position in world space coordinates [X,Y,Z]. Note that this position is of the URDF link position. If the inertial frame is non-zero, this is different from the center of mass position. Use resetBasePositionAndOrientation to set the center of mass location/orientation.
 optional  | baseOrientation | vec4 | create the base of the object at the specified orientation as world space quaternion [X,Y,Z,W]. See note in basePosition.
 
-**For all the arguments of the above function you can refer PyBullet Quickstart Guide**
-
 6. We store the initial position of our urdf file in the variable cubsStartPos.
 
 7. We store the initial Quaternion orientation of our urdf file in cubeStartOrientation
@@ -72,4 +73,4 @@ optional  | physicsClientId | int | if you are connected to multiple servers, yo
 11.**disconnect**: You can disconnect from a physics server. A 'DIRECT' or 'GUI' physics server will shutdown. A separate (out-of-process) physics server will keep on running. See also 'resetSimulation' to remove all items.
 
 ## Task for the part
-Import the given first.urdf file at the position [5,0,0] and second.urdf file at [0,10,5] position 
+Import the given [sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/sample.urdf) file at the position [2,2,1] and second.urdf file at [0,10,5] position 
