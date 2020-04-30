@@ -2,7 +2,7 @@
 Simulation software is based on the process of modeling a real phenomenon with a set of **mathematical formulas**. It is, essentially, a program that allows the user to observe an operation through simulation without actually performing that operation.Thus, it proves to be a very close proxy to the real-world i.e. a mathematical model of the real world processes. The simulation plays a very important role in robotics. Different tools are used for the analysis of kinematics(does not include the cause of motion), dynamics(includes the cause of motion) of robotic manipulators, for off-line programming, to design different control algorithms, to design mechanical structure of robots, to design robotic cells and production lines, etc.
 
 <p align="center">
-   <img  width="480" height="640" src="https://media.giphy.com/media/l2Sq8tDitFAprpCcU/giphy.gif">
+   <img  width="480" height="640" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.popsci.com%2Fquantum-hall-computer-simulation%2F&psig=AOvVaw36OhX3hJ5WdyAOM3QVcNV1&ust=1588325634294000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiciKfsj-kCFQAAAAAdAAAAABAE">
 </p>
 # Simulation Vs Emulation:
 Two of the terms that are often misused are simulation and emulation.
