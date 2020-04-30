@@ -26,9 +26,14 @@ Given the options, the reason for selecting PyBullet is,
 
 Here are some simulations in PyBullet:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=X_D0Rt-37z
-" target="_blank"><img src="http://img.youtube.com/vi/X_D0Rt-37z/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+# Installation of PyBullet
+For Linux users:
+The installation of PyBullet is as simple as:
+(sudo)`pip install PyBullet` (Python 2.x)
+`pip3 install PyBullet`
+This will expose the PyBullet module as well as pybullet_envs Gym environments.
 
 
 
