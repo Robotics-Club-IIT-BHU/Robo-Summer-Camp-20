@@ -59,7 +59,7 @@ The white circles represent the _2 revolute joints_ and the black lines represen
 **Note:**
 1. The task requires you to only build a **Visual** robot - meaning its enough if the robot has visual and geometry tags  alone (No need for Mass, Collision, Inertia, and other physical properties though they will be covered in the upcoming parts.)
 2. Don't worry about visualizing the URDF you have created,as it is covered in the very next sub-part.For now try building over the urdf file shared in this folder)
-3. The links below will be very useful for realizing this task,(skip the ROS parts, just follow about the tags in urdf)
+3. The links below will be very useful for realizing this task,**(skip the ROS parts, just follow the urdf explanations)**
 
    1. [Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
    2. [Building a Visual Robot URDF](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
