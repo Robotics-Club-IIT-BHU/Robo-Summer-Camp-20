@@ -27,12 +27,12 @@ We will go through each line of the code and understand what it does
 * The GUI connection will create a new graphical user interface (GUI) with 3D OpenGL rendering, within the same process space as PyBullet.
 3. **setAdditionalSearchPath** is used to add pybullet_data to the path which contains many examples, urdf files, etc.
 4. **setGravity**:By default, there is no gravitational force enabled. setGravity lets you set the default gravity force for all objects.
-| Parameter type | Name              | type  | Description                                                             |
-| -------------- |:-----------------:| -----:|:-----------------------------------------------------------------------:|
-| required       | gravityX          | float | gravity force along the X world axis                                    | 
-| required       | gravityY          | float | gravity force along the Y world axis                                    |
-| required       | gravityZ          | float | gravity force along the Z world axis                                    | 
-| optional       | physicsClientId   | float | if you connect to multiple physics servers, you can pick which one.     |
+Parameter type | Name              | type  | Description                                                             
+--- | --- | --- | ---
+required       | gravityX          | float | gravity force along the X world axis                                    
+required       | gravityY          | float | gravity force along the Y world axis                                    
+required       | gravityZ          | float | gravity force along the Z world axis                                    
+optional       | physicsClientId   | float | if you connect to multiple physics servers, you can pick which one.     
 
 
 
