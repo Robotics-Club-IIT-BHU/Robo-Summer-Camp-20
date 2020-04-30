@@ -70,3 +70,6 @@ required  | objectUniqueId | int | object unique id, as returned from loadURDF.
 optional  | physicsClientId | int | if you are connected to multiple servers, you can pick one.
 
 11.**disconnect**: You can disconnect from a physics server. A 'DIRECT' or 'GUI' physics server will shutdown. A separate (out-of-process) physics server will keep on running. See also 'resetSimulation' to remove all items.
+
+## The task for the part
+Import the given first.urdf file at the position [5,0,0] and second.urdf file at [0,10,5] position 
