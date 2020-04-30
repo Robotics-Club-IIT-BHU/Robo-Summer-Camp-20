@@ -27,9 +27,8 @@ Given the options, the reason for selecting PyBullet is,
 Here are some simulations in PyBullet:
 
 ![alt-text](gif01.gif)
-![alt-text](gif02.gif)
 ![alt-text](gif03.gif)
-<img src="gif02.gif" width="640" height="480" />
+<img src="gif02.gif" width="640" height="420" />
 
 
 
