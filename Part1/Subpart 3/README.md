@@ -76,7 +76,7 @@ optional  | physicsClientId | int | if you are connected to multiple servers, yo
 
 In this task you are expected to simulate the following conditions using the functions described above.
 
-**Task - 1 - Undefiying gravity !!**
+**Task - 1 - Accelerating Gravity !!**
 
 1. **Total_Time_Step:** Infinite
 2. **Gravity:**
