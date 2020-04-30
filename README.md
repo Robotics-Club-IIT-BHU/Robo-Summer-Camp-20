@@ -5,4 +5,4 @@
    
 This camp is open to all IIT (BHU) students and the entire mangement and non-technical queries are addresed using a local social group(Whatsapp).
 
-A more detailed overview of the cummer camp structure is provided in this pdf.[PDf](https://github.com/NiranthS/Pybullet-Camp-Part1/blob/master/Camp_Overview.pdf)
+A more detailed overview of the cummer camp structure is provided in this - [pdf](https://github.com/NiranthS/Pybullet-Camp-Part1/blob/master/Camp_Overview.pdf).
