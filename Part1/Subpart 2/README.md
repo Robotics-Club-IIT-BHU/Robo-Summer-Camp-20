@@ -47,6 +47,9 @@ Since, in this camp, we try exploring a beginner friendly approach towards robot
 1. [ROS URDF](http://wiki.ros.org/urdf/Tutorials).
 2. [A sample lecture](https://ocw.tudelft.nl/course-lectures/2-2-1-introduction-to-urdf/)
 
+**Example Implementation**
+	We have added a example urdf file of a **Visual_Robot** code and a pybullet code to visualize it.You can directly download the two files and try experimenting with it.Make sure to add the path of the urdf file in the visualizer file if both the files are not present in the same folder
+	
 ## The task for the part:
 To create a the urdf file for a simple robot structure depicted below:
 <p align="center">
