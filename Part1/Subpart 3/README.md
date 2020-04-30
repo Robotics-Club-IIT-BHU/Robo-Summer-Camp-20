@@ -1,4 +1,4 @@
-#Subpart 3
+# Subpart 3
 In this subpart we will see a basic code in PyBullet and understand the functions used in it.
 ```python
 import pybullet as p
@@ -27,6 +27,8 @@ We will go through each line of the code and understand what it does
 * The GUI connection will create a new graphical user interface (GUI) with 3D OpenGL rendering, within the same process space as PyBullet.
 3. **setAdditionalSearchPath** is used to add pybullet_data to the path which contains many examples, urdf files, etc.
 4. **setGravity**:By default, there is no gravitational force enabled. setGravity lets you set the default gravity force for all objects.
+| Parameter type | Name              | type  | Description                                                             |
+| -------------- |:-----------------:| -----:| ----------------------------------------------------------------------- |
 | required       | gravityX          | float | gravity force along the X world axis                                    | 
 | required       | gravityY          | float | gravity force along the Y world axis                                    |
 | required       | gravityZ          | float | gravity force along the Z world axis                                    | 
