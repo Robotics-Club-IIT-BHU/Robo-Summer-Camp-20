@@ -46,3 +46,19 @@ parameter type  | Name | type | Description
 required  | fileName | string | a relative or absolute path to the URDF file on the file system of the physics server.
 optional  | basePosition | vec3 | create the base of the object at the specified position in world space coordinates [X,Y,Z]. Note that this position is of the URDF link position. If the inertial frame is non-zero, this is different from the center of mass position. Use resetBasePositionAndOrientation to set the center of mass location/orientation.
 optional  | baseOrientation | vec4 | create the base of the object at the specified orientation as world space quaternion [X,Y,Z,W]. See note in basePosition.
+
+**For all the arguments of the above function you can refer PyBullet Quickstart Guide**
+6. We store the initial position of our urdf file in the variable cubsStartPos.
+7. We store the initial Quaternion orientation of our urdf file in cubeStartOrientation
+**More details about Quaternions will be given in Part 2 of the camp**
+8. We import our r2d2 robot urdf file in the desired position and orientation.
+9. **stepSimulation**:stepSimulation will perform all the actions in a single forward dynamics simulation step. The default timestep is 1/240 second, it can be changed using the setTimeStep or setPhysicsEngineParameter API.
+10.**getBasePositionAndOrientation**:getBasePositionAndOrientation reports the current position and orientation of the base (or root link) of the body in Cartesian world coordinates. The orientation is a quaternion in [x,y,z,w] format.
+The arguments of getBasePositionAndOrientation are:
+
+parameter type  | Name | type | Description
+--- | --- | --- | ---
+required  | objectUniqueId | int | object unique id, as returned from loadURDF.
+optional  | physicsClientId | int | if you are connected to multiple servers, you can pick one.
+
+11.**disconnect**: You can disconnect from a physics server. A 'DIRECT' or 'GUI' physics server will shutdown. A separate (out-of-process) physics server will keep on running. See also 'resetSimulation' to remove all items.
