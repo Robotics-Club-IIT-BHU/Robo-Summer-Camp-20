@@ -74,6 +74,9 @@ This will expose the PyBullet module as well as pybullet_envs Gym environments.
 3. After installation, launch Visual Studio and create a new python project.
 4. Goto Tools>Python>Python Environments.
 5. In the Overview bar on the right side, select “Open in Powershell”
+<p align="center">
+   <img  src="Powershell.jpg">
+</p>
 
 6. Once your Powershell pops up, type “pip3 install PyBullet” and press enter.
 7. You can install any python package using pip in the Powershell.
