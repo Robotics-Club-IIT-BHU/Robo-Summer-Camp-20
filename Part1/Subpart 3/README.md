@@ -30,8 +30,9 @@ We will go through each line of the code and understand what it does
 The setGravity input parameters are: (no return value):
 
 
-required  | gravityX | float | gravity force along the X world axis
+parameter type  | Name | type | Description
 --- | --- | --- | ---
+required  | gravityX | float | gravity force along the X world axis
 required  | gravityY | float | gravity force along the Y world axis
 required  | gravityZ | float | gravity force along the Z world axis
 optional  | physicsClientId | int | if you connect to multiple physics servers, you can pick which one.
