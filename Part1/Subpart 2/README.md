@@ -47,8 +47,8 @@ Since, in this camp, we try exploring a beginner friendly approach towards robot
 1. [ROS URDF](http://wiki.ros.org/urdf/Tutorials).
 2. [A sample lecture](https://ocw.tudelft.nl/course-lectures/2-2-1-introduction-to-urdf/)
 
-**Example Implementation:**
-	We have added a example urdf file of a **Visual_Robot** code and a pybullet code to visualize it.You can directly download the two files and try experimenting with it.Make sure to add the path of the urdf file in the visualizer file if both the files are not present in the same folder
+## Example Implementation:
+   We have added a example urdf file of a **Visual_Robot** code and a pybullet code to visualize it.You can directly download the two files and try experimenting with it.Make sure to add the path of the urdf file in the visualizer file if both the files are not present in the same folder.
 	
 1. Example urdf file of a R2D2 robot:-[sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/sample.urdf)
 2. PyBullet code to visualize any urdf file:-[visualizer.py](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/visualizer.py)
@@ -65,7 +65,7 @@ The white circles represent the _2 revolute joints_ and the black lines represen
 **Note:**
 1. The task requires you to only build a **Visual** robot - meaning its enough if the robot has visual and geometry tags  alone (No need for Mass, Collision, Inertia, and other physical properties though they will be covered in the upcoming parts.)
 2. Don't worry about visualizing the URDF you have created,as it is covered in the very next sub-part.For now try building over the urdf file shared in this folder)
-3. The links below will be very useful for realizing this task,**(skip the ROS parts which is only for visualizing,instesd you can use the visualizer.py file above.So,just follow the urdf explanations,)**
+3. The links below will be very useful for realizing this task,**(skip the ROS parts which is only for visualizing,instead you can use the visualizer.py file above.So,just follow the urdf explanations,)**
 
    1. [Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
    2. [Building a Visual Robot URDF](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
