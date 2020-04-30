@@ -32,7 +32,7 @@ The file structure of a given part in this repo is as follows:
 2. or, Raise a issue in this repositry
 3. or, post your problems in the whatsapp group mentioned
 4. or, feel free to contact the makers of this repositry
-   
+<!---  
 ### Authors & Contributors of this repository:-
 <p align = "center">
 <table>
@@ -46,3 +46,4 @@ The file structure of a given part in this repo is as follows:
     
 </table>
 </p>
+-->
