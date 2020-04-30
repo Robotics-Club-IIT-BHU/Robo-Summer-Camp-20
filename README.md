@@ -33,13 +33,12 @@ The file structure of a given part in this repo is as follows:
 4. or, feel free to contact the makers of this repositry
    
 <p align = "center">
- <table>
-  
-  <td style="text-align:center;">
+<table>
+ <td align="center">
      <a href="https://github.com/lok-i">
     <img src="https://avatars1.githubusercontent.com/u/54435909?s=460&u=29af076049dab351b2e43621e9a433919bf50fb1&v=43" width="200px;" alt=""/><br /><sub><b>Lokesh Krishna </b></sub></a><br />
     </td>
-    <td style="text-align:center;">
+    <td align="center">
      <a href="https://github.com/NiranthS">
     <img src="https://avatars3.githubusercontent.com/u/44475481?s=400&v=4" width="200px;" alt=""/><br /><sub><b>Niranth Sai</b></sub></a><br /></td>
     
