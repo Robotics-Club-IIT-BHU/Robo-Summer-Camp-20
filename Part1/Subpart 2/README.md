@@ -53,7 +53,7 @@ The white circles represent the _2 revolute joints_ and the black lines represen
 2. Dont worry about about visualizing the URDF you have created,as it is covered in the very next sub-part.For now try building over the urdf file shared in this folder)
 3. The links below will be very use full for realizing this task,(skip the ros parts, juzt follow about the tags in urdf)
 
-   1.[Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
-   2.[Building a Visual Robot URDF](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
-
+   1. [Robot Geometry in URDF](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
+   2. [Building a Visual Robot URDF](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
+4. The aim of this task is to give you a grasp of what a URDF is and not to get into every nitty-gritty detailas and mastering URDF's.Hence,a intutive understanding and using URDF's in upcoming parts is the main idea.  
 
