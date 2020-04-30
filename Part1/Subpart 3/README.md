@@ -36,7 +36,7 @@ optional       | physicsClientId   | float | if you connect to multiple physics 
 
 
 required  | Less | Pretty | aaa
-required  | --- | --- | ---
+--- | --- | --- | ---
 required  | `renders` | **nicely** | abs
 required  | 2 | 3 | 4
 
