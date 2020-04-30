@@ -2,11 +2,15 @@
 
 ## What is  Simulation?
 <p align="center">
-   <img  width="400" height="400" src="https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%201/w_sim.jpg">
+   <img  width="300" height="300" src="https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%201/w_sim.jpg">
 </p>
 
-Well it sure is a possiblity !!!,checkout Simulation Theory - [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
-Before we loose hope on our very existence, lets first understand what it is !!
+   Well it sure is a possiblity !!!,do checkout this Simulation Theory 
+   
+[Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
+
+but before we loose hope on our very existence, lets first understand what it is !!
+
 ### Defined as: 
    Simulation software is based on the process of modeling a real phenomenon with a set of **mathematical formulas**. It is, essentially, a program that allows the user to observe an operation through simulation without actually performing that operation.Thus, it proves to be a very close proxy to the real-world i.e. a mathematical model of the real world processes. The simulation plays a very important role in robotics. Different tools are used for the analysis of kinematics(does not include the cause of motion), dynamics(includes the cause of motion) of robotic manipulators, for off-line programming, to design different control algorithms, to design mechanical structure of robots, to design robotic cells and production lines, etc.
 
