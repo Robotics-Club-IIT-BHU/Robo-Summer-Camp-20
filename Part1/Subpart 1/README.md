@@ -48,13 +48,13 @@ Given the options, the reason for selecting PyBullet is,
 Here are some simulations in PyBullet:
 
 <p align="center">
-   <img src="gif01.gif">
+   <img width="480" height="320" src="gif01.gif">
 </p>
 <p align="center">
-   <img width="640" height="420" src="gif02.gif">
+   <img width="480" height="320" src="gif02.gif">
 </p>
 <p align="center">
-   <img src="gif03.gif">
+   <img width="480" height="320" src="gif03.gif">
 </p>
 
 
