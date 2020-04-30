@@ -7,8 +7,9 @@ This camp is open to all IIT (BHU) students and the entire mangement and non-tec
 
 A more detailed overview of the cummer camp structure is provided in this - [pdf](https://github.com/NiranthS/Pybullet-Camp-Part1/blob/master/Camp_Overview.pdf).
 
-Any querries related to the technical code/content,feel free to contact the contributer of this repositry
-[Lokesh Krishna](https://github.com/lok-i)
-[Niranth Sai](https://github.com/NiranthS)
-or, raise a issue in this repositry
-or, post your problems in the whatsapp group mentioned
+Any querries related to the technical code/content,
+1. feel free to contact the contributer of this repositry
+   * [Lokesh Krishna](https://github.com/lok-i)
+   * [Niranth Sai](https://github.com/NiranthS)
+2. or, raise a issue in this repositry
+3. or, post your problems in the whatsapp group mentioned
