@@ -47,3 +47,5 @@ The file structure of a given part in this repo is as follows:
 </table>
 </p>
 -->
+Contributors:
+[Lokesh Krishna](https://github.com/lok-i), [Niranth Sai](https://github.com/NiranthS)
