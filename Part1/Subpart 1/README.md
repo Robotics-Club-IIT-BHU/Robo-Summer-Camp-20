@@ -15,20 +15,16 @@ Thus, we as robotic technicians need a mathematical model of the world/environme
 * Since your robot has been defined and tested in the simulator, you can start its physical construction. The good thing with simulators is that they allow you to keep doing tests even if your robot is not built yet.
 * Bugs found in your robot software can be debugged first in the simulator.
 * By debugging in the simulator you will save a lot of time since testing on the real robot is very time-consuming.
-* Given that simulation is the way to go, there are plenty of options available for robotics  namely Bullet, Gazebo, V-Rep, Webots, Open Dynamics Engine, MujoCo, etc
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+* Given that simulation is the way to go, there are plenty of options available for robotics  namely Bullet, Gazebo, V-Rep, Webots, Open Dynamics Engine, MujoCo, etc.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+# PyBullet
+Bullet is a **physics engine** that simulates **collision detection, soft and rigid body dynamics**. It has been used in video games as well as for visual effects in movies.PyBullet is an easy to use Python module for physics simulation, robotics, and deep reinforcement learning based on the Bullet Physics SDK.
+Given the options, the reason for selecting PyBullet is,
+* It's a lightweight software and opens source with an active community.
+* Built for python development, hence gives more informative and clear approach for beginners. 
+* No external dependencies except a fully working python interpreter.
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+Here are some simulations in PyBullet:
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+
+
