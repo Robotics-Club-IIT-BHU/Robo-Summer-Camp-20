@@ -93,6 +93,7 @@ Import the given [sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/ma
    Try simulating a rainfall using [sphere.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%203/sphere.urdf) as the raindrops. The rainfall should be in such a way that every wave of rainfall should have a Fibonocci number of raindrops. The spheres should start falling from a specified height with a gravity -10 m/s^2. The spheres should equally space along the X-axis during the start of the wave.
 
 eg:
+
 Let F(i) be the ith Fibonacci term.
 Hence, the i th wave of the rainfall should have F(i) spheres falling freely.Once, the drops reach the ground the simuation gets reset and starts the next wave.(i+1 th wave with F(i+1) drops and so on.. )
 
