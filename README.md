@@ -48,4 +48,6 @@ The file structure of a given part in this repo is as follows:
 </p>
 -->
 ## Authors / Contributors:
+<pre>
 [Lokesh Krishna](https://github.com/lok-i),           [Niranth Sai](https://github.com/NiranthS)
+</pre>
