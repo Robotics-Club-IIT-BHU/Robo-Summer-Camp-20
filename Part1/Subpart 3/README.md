@@ -83,7 +83,7 @@ In this task, you are expected to simulate the following conditions using the fu
 2. **Gravity:**
 along a direction 1/√2 i + 1/√2 j + 0 k , that increases from a magnitude of 0 linearly to a magnitude of 9.8 m/s^2 and resets to 0 and continues the cycle.
 
-*Hint:Gravity should be a function that updates itself every time step of the simulation.*
+  (*Hint:Gravity should be a function that updates itself every time step of the simulation.*)
 
 3. **Bodies in the simulation:**
 Import the given [sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%202/sample.urdf) file at the position [2,2,1] and [dabba.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%203/dabba.urdf) file at [0,0,1] position. 
