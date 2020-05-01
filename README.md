@@ -6,7 +6,7 @@
 
 
 # Summer Camp, 2020  
-## On Robot Control and simulation based on PyBullet
+## On Robot Control and simulation - based on PyBullet
 
    The current edition of the summer camp conducted by the Robotics Club, IIT (BHU)-2020, aims at providing a structured approach towards robot development and control based on the simulation tool PyBullet.This repository will be the primary source of code and content related to the camp.The repository will be updated part wise with subfolders which has the topic wise theory and problem statements/tasks.
    
@@ -48,4 +48,4 @@ The file structure of a given part in this repo is as follows:
 </p>
 -->
 ## Authors / Contributors:
-[Lokesh Krishna](https://github.com/lok-i), [Niranth Sai](https://github.com/NiranthS)
+[Lokesh Krishna](https://github.com/lok-i),           [Niranth Sai](https://github.com/NiranthS)
