@@ -3,7 +3,7 @@
 Getting to know about robot models, its time to do some serious simulation !!
 
 ## Note:
-As a prescribed text we share the [PyBullet_Quickstart_Guide](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%203/PyBullet_Quickstart_Guide.pdf)for quick reference.It contains almost all the functions and the necassary details for using Pybullet,in short its like your bible for this course.Thus, through out this camp it is advised you constanly refer this for better understanding.
+As a prescribed text we share the [PyBullet_Quickstart_Guide](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%203/PyBullet_Quickstart_Guide.pdf) for quick reference.It contains almost all the functions and the necassary details for using Pybullet,in short its like your bible for this course.Thus, through out this camp it is advised you constanly refer this for better understanding.
 
 ## Starter code:
 Moving on,here we will see a basic code in PyBullet and understand the functions used in it.
@@ -92,7 +92,9 @@ Import the given [sample.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/ma
 
    Try simulating a rainfall using [sphere.urdf](https://github.com/NiranthS/Pybullet-Camp/blob/master/Part1/Subpart%203/sphere.urdf) as the raindrops. The rainfall should be in such a way that every wave of rainfall should have a Fibonocci number of raindrops. The spheres should start falling from a specified height with a gravity -10 m/s^2. The spheres should equally space along the X-axis during the start of the wave.
 
-eg:The 7 th wave of the rainfall should have 13 spheres falling freely.
+eg:
+Let F(i) be the ith Fibonacci term.
+Hence, the i th wave of the rainfall should have F(i) spheres falling freely.Once, the drops reach the ground the simuation gets reset and starts the next wave.(i+1 th wave with F(i+1) drops and so on.. )
 
 1. **Timesteps_per_wave:** 10,000
 2. **Height of release:** 5 units from the ground along +z axis
