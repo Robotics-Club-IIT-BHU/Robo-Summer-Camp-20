@@ -32,8 +32,9 @@ The file structure of a given part in this repository is as follows:
 2. or, Raise an issue in this repository
 3. or, post your problems in the WhatsApp group mentioned
 4. or, feel free to contact the makers of this repository
-<!---  
-### Authors & Contributors of this repository:-
+ 
+
+## Authors & Contributors of this repository:-
 <p align = "center">
 <table>
  <td align="center">
@@ -46,8 +47,8 @@ The file structure of a given part in this repository is as follows:
     
 </table>
 </p>
--->
+<!--
 ## Authors / Contributors:
 * [Lokesh Krishna](https://github.com/lok-i)           
 * [Niranth Sai](https://github.com/NiranthS)
-
+-->
