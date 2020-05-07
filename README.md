@@ -35,7 +35,7 @@ The file structure of a given part in this repository is as follows:
  
 ## Finally, Why we do this you ask ?!!
 <p align="center">
- <img  width="500" height="300" src="https://meme-generator.com/wp-content/uploads/mememe/2019/11/mememe_b480a10a8f02505d8b08fc4b52e94126-1.jpg">
+ <img  width="500" height="300" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/job.jpg">
 </p>
 
 ## Authors & Contributors of this repository:-
