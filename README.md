@@ -37,8 +37,7 @@ The file structure of a given part in this repository is as follows:
 ## Authors & Contributors of this repository:-
 
 <div align = "center">
-
-<p align = "center">
+ 
 <table>
  <td align="center">
      <a href="https://github.com/lok-i">
@@ -49,7 +48,6 @@ The file structure of a given part in this repository is as follows:
     <img src="https://avatars3.githubusercontent.com/u/44475481?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Niranth Sai</b></sub></a><br /></td>
     
 </table>
-</p>
 
 </div>
 
