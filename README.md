@@ -33,6 +33,10 @@ The file structure of a given part in this repository is as follows:
 3. or, post your problems in the WhatsApp group mentioned
 4. or, feel free to contact the makers of this repository
  
+## Finally, Why we do this you ask ?!!
+<p align="center">
+ <img  width="600" height="400" src="https://meme-generator.com/wp-content/uploads/mememe/2019/11/mememe_b480a10a8f02505d8b08fc4b52e94126-1.jpg">
+</p>
 
 ## Authors & Contributors of this repository:-
 
