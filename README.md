@@ -36,7 +36,7 @@ The file structure of a given part in this repository is as follows:
 
 ## Authors & Contributors of this repository:-
 
-<div align = "center">
+<center>
  
 <table>
  <td align="center">
@@ -49,6 +49,6 @@ The file structure of a given part in this repository is as follows:
     
 </table>
 
-</div>
+</center>
 
 
