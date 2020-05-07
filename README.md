@@ -35,7 +35,7 @@ The file structure of a given part in this repository is as follows:
  
 ## Finally, Why we do this you ask ?!!
 <p align="center">
- <img  width="500" height="300" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/job.jpg">
+ <img  width="400" height="250" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/job.jpg">
 </p>
 
 ## Authors & Contributors of this repository:-
