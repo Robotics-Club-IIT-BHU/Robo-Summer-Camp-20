@@ -35,6 +35,9 @@ The file structure of a given part in this repository is as follows:
  
 
 ## Authors & Contributors of this repository:-
+
+<div align = "center">
+
 <p align = "center">
 <table>
  <td align="center">
@@ -47,8 +50,7 @@ The file structure of a given part in this repository is as follows:
     
 </table>
 </p>
-<!--
-## Authors / Contributors:
-* [Lokesh Krishna](https://github.com/lok-i)           
-* [Niranth Sai](https://github.com/NiranthS)
--->
+
+</div>
+
+
