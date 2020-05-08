@@ -1,7 +1,7 @@
 # Subpart 3
 
 <p align="center">
- <img src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/documentation2.jpg"><br>
+ <img src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/documentation2.jpg"><br>
 </p>
 
 ## Input Management:
