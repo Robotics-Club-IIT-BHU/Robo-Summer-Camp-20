@@ -18,7 +18,7 @@
 for eg,
 
 <p align="center">
- <img  width="600" height="350" src=https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/c_space.jpg>
+ <img  width="600" height="350" src=https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/c_space.jpg>
 </p>
 
 ## Degree of freedom(dof):
@@ -37,7 +37,7 @@ for eg,
 The table below summarizes the DOF of each joint and how it has been constrained to move.
 
 <p align="center">
- <img  width="620" height="290" src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/joint.png"><br>
+ <img  width="620" height="290" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/joint.png"><br>
 </p>
  
 ### Grubler's Formula:
@@ -52,7 +52,7 @@ Let
 * ci be the number of constraints provided by joint i, where fi + ci = m for all i. Then
 
 <p align="center">
- <img  width="600" height="300" src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/dof.jpg"><br>
+ <img  width="600" height="300" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/dof.jpg"><br>
 </p>
 
 **Note:** This formula holds only if all joint constraints are independent. If they are not independent then the formula provides a lower bound on the number of degrees of freedom.
@@ -61,7 +61,7 @@ Let
 
 Let's consider a 4R serial planar robot arm as shown in the image below,
 <p align="center">
-<img  width="620" height="290" src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/4ink.jpg"><br>
+<img  width="620" height="290" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%201/4ink.jpg"><br>
 </p>
 
 here,
