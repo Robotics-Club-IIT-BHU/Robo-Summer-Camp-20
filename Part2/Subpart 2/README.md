@@ -10,7 +10,7 @@ Official documentation is sometimes the best place to get the required informati
 Sometimes you can find the information you need in Stackoverflow without referring to the documentation.
 
 <p align="center">
- <img  width="350" height="400" src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/documentation%201.png"><br>
+ <img  width="350" height="400" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/documentation%201.png"><br>
 </p>
 
 
