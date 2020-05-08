@@ -7,7 +7,7 @@
 ## Input Management:
 
 Its is quite important that we get to control the robot in our simulation manually.Even a manual override or interrupt is required for any autonomous system.Hence,in this part you will learn how to control a robot in PyBullet using Keyboard/Mouse.
-First lets see a demo of this- **Run the [car.py](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/car.py)** file provided above.(Don't worry about understanding the code, you will understand the code after referring to the documentation mentioned below).In this example you can control the car to go forward/backward using up/down arrows.
+First lets see a demo of this- **Run the [car.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/car.py)** file provided above.(Don't worry about understanding the code, you will understand the code after referring to the documentation mentioned below).In this example you can control the car to go forward/backward using up/down arrows.
 
 There are two simple functions for Input Management,namely
 <div align = "center">
@@ -68,7 +68,7 @@ The functions that enables you to design such constraints are listed below:
 
 **Task 1**
 
-In the code [car.py](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/car.py) shared above,add
+In the code [car.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/car.py) shared above,add
 these additional functionalities,
 
 1. Right and Left turn user control through **differential drive** method.
