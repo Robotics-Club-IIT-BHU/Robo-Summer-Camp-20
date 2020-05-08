@@ -80,7 +80,6 @@ Fix for installation of pybullet
    2. pip install wheel (if you get some wheel related error while running above command)
    3. pip install --upgrade pip(optional)
 7. Open Python idle this will open the shell, under file tab click new, in newly opened window you can type you code and run it.
-
 #### If the above process doesn't work for windows users then try: 
 
 1. Install Visual Studio 2019 Community version [here](https://visualstudio.microsoft.com/downloads/).
@@ -113,4 +112,12 @@ cubePos, cubeOrn = p.getBasePositionAndOrientation(boxId)
 print(cubePos,cubeOrn)
 p.disconnect()
 ```
+**If The above installation Fails and is very complicated then do use attached .bat files (Windows users only)**
+1. Make a folder in which you would work.
+2. download the <a href="/Installation.bat">Installation.bat</a> into the same folder.
+3. download the <a href="/Run.bat">Run.bat</a> also into the same folder.
+4. make a python script with as any_name.py and save it in the same folder.
+5. Then <a href="/Installation.bat">Installation.bat</a> only once and just press to continue.
+6. Enter your file name to be run.(Should launch any time now)
+7. For using it regularly open <a href="/Run.bat">Run.bat</a> And type in your filename like any_name.py . for everytime you use it.
 **Contact us if you face any difficulties with the installation.**
