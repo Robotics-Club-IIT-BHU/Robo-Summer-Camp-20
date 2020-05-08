@@ -48,7 +48,7 @@ Rather than we explaining something that is **"simply complex"**, we leave it to
 
 </div>
 <p align="center">
-<img src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/quat1.jpg"><br>
+<img src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/quat1.jpg"><br>
 </p>
 
 ## Robot Motion Control:
@@ -89,12 +89,12 @@ The task for this part will be to make the husky car climb a wedge using torque 
   2. For the given conditions try getting the optimal value of **force** for **Torque control function** and **Velocity** for **Velocity control function** and initialize it in the function.The optimal value of force and velocity should enable the robot to climb up the ramp without sliping and it should not come out of the ramp from its sides.
 
 <p align="center">
-<img height ="400" width = "400" src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/car.gif"><br>
+<img height ="400" width = "400" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/car.gif"><br>
 </p>
 
-The starter code with the necessary friction values of surfaces and the wedge urdf is available here. - [ramp_starter.py](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/ramp_starter.py) 
+The starter code with the necessary friction values of surfaces and the wedge urdf is available here. - [ramp_starter.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/ramp_starter.py) 
 
-The hardware resource files with [wedge.urdf](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/wedge.urdf) and [ramp2.stl](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/ramp2.stl) is to be kept in the same directory as ramp.py
+The hardware resource files with [wedge.urdf](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/wedge.urdf) and [ramp2.stl](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%202/ramp2.stl) is to be kept in the same directory as ramp.py
 
 
 
