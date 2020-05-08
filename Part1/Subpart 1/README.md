@@ -120,4 +120,5 @@ p.disconnect()
 5. Then <a href="/Installation.bat">Installation.bat</a> only once and just press to continue.
 6. Enter your file name to be run.(Should launch any time now)
 7. For using it regularly open <a href="/Run.bat">Run.bat</a> And type in your filename like any_name.py . for everytime you use it.
+8. For installing new modules or update them run <a href="/NewModule.bat">NewModule.bat</a>
 **Contact us if you face any difficulties with the installation.**
