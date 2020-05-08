@@ -16,7 +16,7 @@ Sometimes you can find the information you need in Stackoverflow without referri
 
 
 ## Robot orientation and position (for mobile robot):
-Another important information about a robot or specifically a **mobile robot** is its absolute **position and orientation** in the simulation world. In real-world terms, it is nothing like the GPS position, map cordinates, compass readings. In a nutshell, we need data to get a sense of position and localization. The term orientation, however, comes into the picture when we consider **frame** based tracking of the space over position-only 3d space. Thus, if we consider a global frame with the i,j, and k directions defined, then the amount of **inclination** about all the axes (_ie. rotation ) of a **local frame** taken on the robot gives its orientation.
+Another important information about a robot or specifically a **mobile robot** is its absolute **position and orientation** in the simulation world. In real-world terms, it is something like the GPS position, map cordinates, compass readings. In a nutshell, we need data to get a sense of position and localization. The term orientation, however, comes into the picture when we consider **frame** based tracking of the space over position-only 3d space. Thus, if we consider a global frame with the i,j, and k directions defined, then the amount of **inclination** about all the axes (_ie. rotation ) of a **local frame** taken on the robot gives its orientation.
 
 ## Robot Orientation Formats:
 
