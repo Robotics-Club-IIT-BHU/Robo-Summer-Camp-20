@@ -38,6 +38,15 @@ The function(s) that enables you to design such forces are designed below:
 
 </div>
 
+## **Task 1**
+
+In the code [car.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/car.py) shared above,add
+these additional functionalities,
+
+1. Right and Left turn user control through **differential drive** method.
+2. The car should rotate about its axis of symmetry when the user inputs the letter **r**.
+3. Should increase the velocity/torque of all the motors by one unit if the user inputs the letter **a**
+
 ## Constraints:
 
 Unlike the constraints mentioned in the earlier part that describes the internal motion capablities of a robot,there might be scenarios where we need to apply constraints in between the robot and a unit in the environment and simulate such constrained conditions
@@ -64,16 +73,9 @@ The functions that enables you to design such constraints are listed below:
 
 </div>
 
-## Task of the part
 
-**Task 1**
 
-In the code [car.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/car.py) shared above,add
-these additional functionalities,
 
-1. Right and Left turn user control through **differential drive** method.
-2. The car should rotate about its axis of symmetry when the user inputs the letter **r**.
-3. Should increase the velocity/torque of all the motors by one unit if the user inputs the letter **a**
 
 **Task 2**
 
