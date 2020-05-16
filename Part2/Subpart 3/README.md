@@ -45,7 +45,7 @@ these additional functionalities,
 
 1. Right and Left turn user control through **differential drive** method.
 2. The car should rotate about its axis of symmetry when the user inputs the letter **r**.
-3. Should increase the velocity/torque of all the motors by one unit if the user inputs the letter **a**
+3. Should increase the velocity/torque of all the motors by one unit if the user inputs the letter **a** ie the current value is to be increamented by a unit magnitude, and consequtively when you press a forward or backward the car will be moving in the new updated value.
 
 ## Constraints:
 
