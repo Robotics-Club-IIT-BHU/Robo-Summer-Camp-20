@@ -52,7 +52,7 @@ Hence, the essential components will be
 
 Thus,in this task we will try implementing a PD controller to control the turning motion of the car about a constrained axis so as to fix a target box in the centre of the camera frame.It could be better understood from the illustrations below.
 <p align="center">
-   <img  width="800" height="450" src="https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part3/Subpart3/pid_demo.gif">
+   <img  width="800" height="450" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part3/Subpart3/pid_demo.gif">
   
    
 </p>
@@ -74,7 +74,7 @@ Hence the error can be easily calculated as,
 2. We recomend using **openCV** for contour detection and **cv2.moments** method to find the x cordinate of the contour.
 For the ones **who are not familiar with openCV can contact use for the boilerplate code as th main motive here is to build the controller**.
 
-3. The starter code [pid_control_starter.py](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part3/Subpart3/pid_control_starter.py), has the necessary structure for the code,with the following user inputs alredy implemented,
+3. The starter code [pid_control_starter.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part3/Subpart3/pid_control_starter.py), has the necessary structure for the code,with the following user inputs alredy implemented,
    1. **right arrow**- anti clockwise rotation about z axis,essentially to give a initial disturbance and switch on PID to correct the alignment.
    2. **left arrow** - clockwise rotation about z axis,,essentially to give a initial disturbance and switch on PID to correct the alignment.
    3. **c key**      - to start PID control
