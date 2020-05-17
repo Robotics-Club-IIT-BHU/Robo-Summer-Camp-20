@@ -106,7 +106,7 @@ At this point, I am obliged to inform all the readers that we are aware of **the
 
 1. Implement functions implementing Forward Kinematics and Inverse Kinematics for a planar 2R planar robot, with link lengths l1,l2.
  
- 2. Use the above functions to make the 2R robot in [2R_planar_robot.urdf](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part3/Subpart2/2R_planar_robot.urdf) follow the **longest straight-line segment the robot could follow with the given link lengths l1,l2** by making l1 and l2 equal to the lengths in the urdf. Refer the starter code for more details.[ik_starter.py](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part3/Subpart2/ik_starter.py)
+ 2. Use the above functions to make the 2R robot in [2R_planar_robot.urdf](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part3/Subpart2/2R_planar_robot.urdf) follow the **longest straight-line segment the robot could follow with the given link lengths l1,l2** by making l1 and l2 equal to the lengths in the urdf. Refer the starter code for more details.[ik_starter.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part3/Subpart2/ik_starter.py)
  
 Like,in the visualization below you can make your robot trace anything, your creativity is your limit !!, but we expect only following a **line segment though.**
 
