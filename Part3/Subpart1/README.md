@@ -71,7 +71,7 @@ optional  | physicsClientId | int | unused,added for API consistency
   
 </div>
 
-* Here is an example for your understanding of the above functions [camera_example.py](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part3/Subpart1/camera_example.py)
+* Here is an example for your understanding of the above functions [camera_example.py](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part3/Subpart1/camera_example.py)
 * Try to change different parameters in the above example and see how the image changes.
 
 ## Task for the part
@@ -80,6 +80,6 @@ optional  | physicsClientId | int | unused,added for API consistency
 
 * OpenCV functions are useful to do any changes to the image.
 
-**You can even try to implement problem statement of [Vision](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Part3/Subpart1/Vision%20final%20PS.docx) in the simulator,but is not mandatory for the assesment.**
+**You can even try to implement problem statement of [Vision](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Part3/Subpart1/Vision%20final%20PS.docx) in the simulator,but is not mandatory for the assesment.**
 
 
