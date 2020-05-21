@@ -20,11 +20,9 @@ visualization.-->
   l x b x h be the base dimentions
   the the values should be filled below as 
   commented
-
 * I have used cylinder here for the link shape
   if they have use box that is also fine but then
   l1 , l2 will be the longest side, i suppose
-
 * dc - dont care
 -->
  <link name="base_link">
@@ -90,6 +88,24 @@ visualization.-->
 <origin xyz="0 0 1.05"/> <!--z = l1 + h/2-->
 <limit effort="200" lower="-3.14" upper="3.14" velocity="1.0"/><!-- dc -->
 <axis xyz= "1 0 0"/><!-- can be either "1 0 0" or "0 1 0" and the same should be in joint 1 -->
+ </joint>
+
+<link name="link3">
+    <visual>
+      <geometry>
+        	<sphere radius="0.05"/><!--length = l2-->
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 -0.05"/><!-- z = (l2 / 2) -->
+      <material name="black"/>
+    </visual>
+  </link>
+
+<joint name="joint3" type="fixed">
+<parent link="link2"/>
+  <child link="link3"/>
+<origin xyz="0 0 1.05"/> <!--z = l1 + h/2-->
+
+<axis xyz= "0 0 0"/><!-- can be either "1 0 0" or "0 1 0" and the same should be in joint 1 -->
  </joint>
 
 </robot>
