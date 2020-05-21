@@ -76,7 +76,7 @@ optional  | physicsClientId | int | unused,added for API consistency
 
 ## Task for the part
 
-* In this task you are expected to capture a frame from the perspective of the robot car *husky*. As a continuation to Task -1 of Subpart3 of Part-2, where you control the car using arrow keys, add another user input 'c' such that when a user triggers 'c', an image from the camera placed in front of the car pointing in the direction of the car should be displayed as a frame,say using _cv2.imshow()_.
+* In this task you are expected to capture a frame from the perspective of the robot car *husky*. As a continuation to Task -1 of Subpart3 of Part-2, where you control the car using arrow keys, add another user input 'c' such that when a user triggers 'c', an image from the camera placed in front of the car pointing in the direction of the car should be displayed as a frame,say using _cv2.imshow()_.ie take a picture from the car's FPV perspective
 (image should show whatever is infront of the car)
 * OpenCV functions are useful to do any changes to the image.
 
