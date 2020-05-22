@@ -76,7 +76,7 @@ optional  | physicsClientId | int | unused,added for API consistency
 
 ## Task for the part
 
-* In this task you are expected to capture a **frame from the perspective of the robot car *husky***. As a continuation to Task -1 of Subpart3 of Part-2, where you control the car using arrow keys, add another user input 'c' such that when a user triggers 'c', an image from the camera placed on the car pointing along the direction of the car should be displayed as a frame,say using _cv2.imshow()_.ie take a picture from the car's *First Person View* perspective.(image should show whatever is infront of the car,from what the *driver* sees,in simple terms.)
+* In this task you are expected to capture a **frame from the perspective of the robot car *husky***. As a continuation to Task -1 of Subpart3 of Part-2, where you control the car using arrow keys, add another user input 'c' such that when a user triggers 'c', an image from the camera placed on the car pointing along the direction of the car should be displayed as a frame,say using _cv2.imshow()_.ie take a picture from the car's *First Person View* perspective(image should show whatever is infront of the car,from what the *driver* sees,in simple terms.)
 
 * So,if you consider the gif shown in *collision part*, your image will be having a green box,as that is what the **"car is seeing"**.
 
