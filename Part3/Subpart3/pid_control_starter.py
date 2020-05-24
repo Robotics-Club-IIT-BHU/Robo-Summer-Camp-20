@@ -18,7 +18,7 @@ p.createConstraint(husky, -1, -1, -1, p.JOINT_POINT2POINT, [0, 1, 0], [0, 0,0 ],
 
 
 maxForce = 200 #Newton.m
-camera_pointing_to=[-10,0,0]
+#camera should be facing in the direction of the car
 
 
 def turn(speed):
