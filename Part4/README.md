@@ -71,7 +71,7 @@ If its all greek to you and you still want to pursue this and get to to nuts and
    <img  width="300" height="150" src="https://thumbs.gfycat.com/EnchantingDecisiveCurlew-max-1mb.gif">
 </p>
 
-We will be greatly glad to have you in the workshops that we will be conducted and onboard working on projects with such concepts.We will be dealing from the **very basics to the state of the art concepts of robot learning**. In today's scenario, the required fundamentals for mastering Ml is just a Google search away.
+We will be greatly glad to see all of you in the workshops that we will be conducted and onboard working on projects with such concepts.We will be dealing from the **very basics to the state of the art concepts of robot learning**. In today's scenario, the required fundamentals for mastering Ml is just a Google search away.
 
 <div align="center">
 
