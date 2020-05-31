@@ -1,6 +1,6 @@
 
 <p align="center">
- <img  width="400" height="400" src="https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/14045716_1588889014739471_6053448306584221828_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=di3U3GUo8egAX8l7PYd&_nc_ht=scontent.fmaa1-2.fna&oh=af10b64b1dfe3df798fe4e307402a3ae&oe=5ECF6C83"><br>
+ <img  width="400" height="400" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/robo.jpg"><br>
   <i>presents:</i><br>
 </p>
 
