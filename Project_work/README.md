@@ -59,7 +59,7 @@ You can make them **walk, run, jump, dance, follow a track, image processing bas
 
 ## What to submit:
 
-We expect a **2-3 page report with the mentioned topics and the codebase of your project**. A model format of the report is added for your reference.[project_report_format.pdf](https://github.com/lok-i/Robo-Summer-Camp-20/blob/master/Project_work/project_report_format.pdf)
+We expect a **2-3 page report with the mentioned topics and the codebase of your project**. A model format of the report is added for your reference.[project_report_format.pdf](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Project_work/project_report_format.pdf)
 
 ### In report:
 
