@@ -48,7 +48,7 @@ Uncertainty in responding to a given senor data,_- meaning our robot cannot alwa
 
 ## Robot learning:
 
-So basically we want **to learn efficient control over a given amount of data for our robot**. Thought the simpler it might sound it has implications of great magnitude that need to be explained and personally experienced to master. Thus, the videos below give a general overview of such methodologies, and getting into a greater depth will require the prolonging of the camp. Thus, we feel that you will be greatly benefited and understand the significance of this topic if we bring it to you as a series of workshops upon reaching the campus. For now, we would like you to build on the fundamentals of ML for the ones who are interested.
+So basically we want **to learn efficient control over a given amount of data for our robot**. Thought the simpler it might sound it has implications of great magnitude that need to be explained and personally experienced to master. Thus, the videos below give a general overview of such methodologies, and getting into a greater depth will require the prolonging of the camp. Thus, we feel that you will be greatly benefited and understand the significance of this topic if we bring it to you as **a series of workshops upon reaching the campus**. For now, we would like you to build on the fundamentals of ML, for the ones who are interested.
 
 1. Open AI's work in Robotics.
    1. [Learning dexterity](https://openai.com/blog/learning-dexterity/)
@@ -71,7 +71,7 @@ If its all greek to you and you still want to pursue this and get to to nuts and
    <img  width="300" height="150" src="https://thumbs.gfycat.com/EnchantingDecisiveCurlew-max-1mb.gif">
 </p>
 
-We will be greatly glad to have you in the workshops that we will be conducted and onboard working on projects with such concepts. In today's scenario, the required fundamentals for mastering Ml is just a Google search away.
+We will be greatly glad to have you in the workshops that we will be conducted and onboard working on projects with such concepts.We will be dealing from the **very basics to the state of the art concepts of robot learning**. In today's scenario, the required fundamentals for mastering Ml is just a Google search away.
 
 <div align="center">
 
