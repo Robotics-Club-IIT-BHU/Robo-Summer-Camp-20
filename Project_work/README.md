@@ -3,9 +3,9 @@
    <img  width="500" height="330" src="https://i.imgflip.com/12udd1.jpg">
 </p>
 
-This camp requires the submission of project work along with the assignments of the first three parts. We expect you to work in a team of 3-4 members and submit a report and the code of the same. The instructions are as below.
+This camp requires the submission of project work along with the assignments of the first three parts. We expect you to **only work as a team of 3-4 members** and submit a report and the code of the same. The instructions are as follows.
 
-## Teame Mates:
+## Team Mates:
 
 <p align="center">
    <img  width="500" height="330" src="https://i.pinimg.com/originals/26/06/07/260607e4516cce450c63cf32b82ff716.png">
