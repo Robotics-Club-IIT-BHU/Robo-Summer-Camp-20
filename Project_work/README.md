@@ -54,8 +54,7 @@ It's not that we are lazy to make a PS, but would rather expect to work on probl
 7. "racecar/racecar.urdf", a model race car
 
 
-
-You can make them **walk, run, jump, dance, follow a track, image processing based control, control through manual control, puppet rig, a combination of the concepts taught in the camp itself, control systems, sensor-based automation, IK and FK for any of the robots, Imitation learning, ML-based robotics, anything else and etc**. Your creativity is your limit.
+The nature of the problem could either **be finding a solution for a problem in robotics or solving a problem through robotics or even simply implementing a pre existing idea or trying out something out of the box or something that simply is cool**.You can make the robots **walk, run, jump, dance, follow a track, image processing based control, control through manual control, puppet rig, a combination of the concepts taught in the camp itself, control systems, sensor-based automation, IK and FK for any of the robots, Imitation learning, ML-based robotics, anything else and etc**. Your creativity is your limit.
 
 ## What to submit:
 
