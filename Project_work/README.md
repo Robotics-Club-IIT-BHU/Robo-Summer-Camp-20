@@ -108,7 +108,7 @@ We expect a **2-3 page report with the mentioned topics and the codebase of your
 
 <div align="center">
    
-_On that not, we are waiting for your innovative brains to amaze us, Good luck and_
+_On that note, we are waiting for your innovative brains to amaze us, Good luck and_
 
 </div>
 
