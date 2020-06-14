@@ -38,6 +38,19 @@ The file structure of a given part in this repository is as follows:
  <img  width="400" height="250" src="https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/job.jpg">
 </p>
 
+## Project work by participants:
+
+We take immense pleasure in sharing the final project submissions done by the participants of this camp.The work stands testament to great amount of passion towards te field and the dedication that the participants showed towards the camp.We are obligated to confess that the project work was done by the participants within a period of 2 weeks,which the organizers of the camp feel is quite phenomenal. 
+
+| Project reports | The brains behind it |
+| --- | --- |
+| [_ForestFireFighter(FFF)_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/ForestFireFighter.pdf) | **Ujjawal Agrawal, Prakhar Agrawal, Ujjawal Sharma** |
+| [_Autonomous Environment Mapping Robot_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Autonomous%20Env%20Mapping%20Robot.pdf)| **Yash Sahijwani, Raghav Soni, Vikhyath Venkatraman** |
+| [_Walking Humanoid_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Walking%20Humanoid.pdf) | **Milind Prajapat, Kartik Garg, Sachin Negi, Surabhit Gupta**|
+| [_BEAT THE BOT!!!_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Beat_the_bot.pdf) | **Vimal Kumar, Yash Upadhyay, Aditi Agrawal, Siddharth Anand Srivastav**|
+| [_Hand Pose Imitation_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Hand_pose_estimation.pdf)| **L N Saaswath, Somnath Sendhil Kumar, Atul Kumar, Yash Garg** |
+| [_ALPHA THE WONDER CAR!_](https://github.com/NiranthS/Robo-Summer-Camp-20/tree/master/Submitted_Project_Reports)| **Mainak Samanta, Prince Kumar Gond, Amarjeet Keshiri, Ajasra Gupta** |
+
 ## Authors & Contributors of this repository:-
 
 <center>
