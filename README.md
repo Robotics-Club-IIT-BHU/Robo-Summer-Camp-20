@@ -49,7 +49,7 @@ We take immense pleasure in sharing the final project submissions done by the pa
 | [_Walking Humanoid_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Walking%20Humanoid.pdf) | **Milind Prajapat, Kartik Garg, Sachin Negi, Surabhit Gupta**|
 | [_BEAT THE BOT!!!_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Beat_the_bot.pdf) | **Vimal Kumar, Yash Upadhyay, Aditi Agrawal, Siddharth Anand Srivastav**|
 | [_Hand Pose Imitation_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Hand_pose_estimation.pdf)| **L N Saaswath, Somnath Sendhil Kumar, Atul Kumar, Yash Garg** |
-| [_ALPHA THE WONDER CAR!_](https://github.com/NiranthS/Robo-Summer-Camp-20/tree/master/Submitted_Project_Reports)| **Mainak Samanta, Prince Kumar Gond, Amarjeet Keshiri, Ajasra Gupta** |
+| [_ALPHA THE WONDER CAR!_](https://github.com/NiranthS/Robo-Summer-Camp-20/blob/master/Submitted_Project_Reports/Alpha_the_wodnder_car.pdf)| **Mainak Samanta, Prince Kumar Gond, Amarjeet Keshiri, Ajasra Gupta** |
 
 ## Authors & Contributors of this repository:-
 
