@@ -40,7 +40,7 @@ The file structure of a given part in this repository is as follows:
 
 ## Project work by participants:
 
-We take immense pride and pleasure in sharing the final project submissions done by the participants of this camp.The work stands testament to the participants' great amount of passion towards the field and the dedication that they showed towards the camp. We are obligated to confess that all the project work was done by the participants within a period of 2 weeks,which the organizers of the camp feel is quite phenomenal from their part. 
+We take immense pride and pleasure in sharing the final project submissions done by the participants of this camp. The work stands testament to the participants' great amount of passion towards the field and the dedication that they showed towards the camp. We are obligated to confess that all the project work was done by the participants within 2 weeks, which we feel is quite phenomenal from their part. 
 
 | Project reports | The brains behind it |
 | --- | --- |
