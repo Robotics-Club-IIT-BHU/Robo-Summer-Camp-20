@@ -67,8 +67,7 @@ The installation of PyBullet is as simple as:
 `pip3 install PyBullet`
 This will expose the PyBullet module as well as pybullet_envs Gym environments.
 
-If you are getting installation issues
-Fix for installation of pybullet
+If you are getting Visual C++ version issues in Windows, then
 
 1. First of all uninstall everything you have installed till now, like any Python platform such as anaconda, jupyter, Python idle, visual studio... including visual studio basic tools and related softwares and restart the machine (Important).
 2. Install Python idle v3.7.7 from [here](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe), you can go for the latest one too which is supported by your machine, but just because older versions are more compatible, here v3.7.7 is included. While installation go through default installation, kindly check mark Add to path option.
