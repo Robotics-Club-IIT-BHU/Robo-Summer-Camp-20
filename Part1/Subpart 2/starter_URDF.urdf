@@ -1,51 +1,41 @@
-<robot name="2_R_robot">
-    <link name="fixed_base">
-     
-    <!-- This is the fixed base 
-    Insert the necessary tags(visual and geometry alone) 
-    and the necassary values/properties.
-       -->
-    </link>
-    
-    <link name="link_1">
-          
-    
-    <!-- This is the  first link, l1 
-    Insert the necessary tags(visual and geometry alone) 
-    and the necassary values/properties.
-       -->
-    </link>
+<?xml version="1.0"?>
+   <robot name="origins">
+     <link name="base_link">
+       <visual>
+         <geometry>
+           <cylinder length="0.6" radius="0.3"/>
+         </geometry>
+       </visual>
+     </link>
+   
+     <link name="right_leg">
+       <visual>
+         <geometry>
+           <box size="1 0.075 0.6"/>
+         </geometry>
+         <origin rpy="0 0 -0.7855" xyz="0.5 -0.5 0"/>
+       </visual>
+     </link>
+   
+     <joint name="base_to_right_leg" type="revolute">
+       <parent link="base_link"/>
+       <child link="right_leg"/>
+       <origin xyz="0 0 0"/>
+     </joint>
 
-    <link name="link_2">
-      
-    <!-- This is the  first link, l2
-    Insert the necessary tags(visual and geometry alone) 
-    and the necassary values/properties.
-       -->        
-    </link>
-    
-  
-    <joint name="Revolute_joint_1" type="revolute">
-       
-    <!-- This is the  Revolute join,conecting base and link_1 
-         Insert the necessary tags
-         (origin,
-          parent,
-          child,
-          limit,
-          axis) 
-         and the necassary values/properties.
-       -->
-    </joint>
-    <joint name="Revolute_joint_2" type="revolute">
-       <!-- This is the  Revolute join,conecting link_1 and link_2 
-         Insert the necessary tags
-         (origin,
-          parent,
-          child,
-          limit,
-          axis) 
-         and the necassary values/properties.
-       -->
-</robot>
+     <link name="right_leg1">
+       <visual>
+         <geometry>
+           <box size="1 0.08 0.6"/>
+         </geometry>
+         <origin rpy="0 0 -1.57" xyz="-0.075 -0.4 0"/>
+       </visual>
+     </link>
 
+     <joint name="right_leg_to_right_leg1" type="revolute">
+       <parent link="right_leg"/>
+       <child link="right_leg1"/>
+       <origin xyz="0.907 -0.907 0"/>
+     </joint>
+
+   </robot>
